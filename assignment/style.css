@@ -1,5 +1,35 @@
 /* Give your page a fun background color */
+h1 {
+  background-color: lightgreen;
+  opacity: 1;
+  text-align: center;
+  font-size: 60px;
+  background-size: cover;
+  border-style: solid;
+  border-color: purple;
+}
 
+h1 {
+  color: midnightblue;
+  font-style: italic;
+}
+
+body {
+  font-size: 35px;
+  font-style: oblique;
+  background-color: white;
+  border-top-style: solid;
+  border-bottom-style: solid;
+}
+
+footer {
+  background-color: purple;
+  border-style: solid;
+  border-color: black;
+  color: lightgreen;
+  font-size: 25px;
+  font-style: normal;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
