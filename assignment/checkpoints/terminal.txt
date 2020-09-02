@@ -19,4 +19,5 @@
 # 9 - What does the command 'git add .' do?
 // answer: Stage all changes in <directory> for the next commit.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-// answer: git commit -m 
+// answer: git commit -m
+// this is an example
